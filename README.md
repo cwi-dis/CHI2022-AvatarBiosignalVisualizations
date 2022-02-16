@@ -1,7 +1,7 @@
 ## CHI 2022 paper: Social VR Avatar Biosignal Visualizations
 
 Source code for our CHI 2022 paper:
->* "Understanding and Designing Avatar Biosignal Visualizations for Social Virtual Reality Entertainment"*
+>* "Understanding and Designing Avatar Biosignal Visualizations for Social Virtual Reality Entertainment"
 
 Repository contains:
 
