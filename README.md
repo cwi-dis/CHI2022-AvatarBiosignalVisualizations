@@ -15,11 +15,11 @@ Example visualizations:
 
 ## Preprint + Video Preview
 
-Preprint (.pdf) here: [chi2022_socialvr-avatarbiosignals_preprint](preprint/chi2022_socialvr-avatarbiosignals_preprint.pdf)
+Preprint (.pdf) here: [chi2022_socialvr-avatarbiosignals_preprint](preprint/chi22-347.pdf)
 
-30s video preview (on YouTube):
+30s video preview (soon on YouTube!):
 
-[![30s video preview](https://abdoelali.com/assets/rcea360vr_thumbnail.png)](https://www.youtube.com/watch?v=dSeCyH6OuIc "CHI 2022 Social VR Avatar Biosignals")
+[![30s video preview](imgs/30s_preview_screenshot.png)](https://www.youtube.com "CHI 2022 Social VR Avatar Biosignals")
 
 
 ## Citing this paper or code
