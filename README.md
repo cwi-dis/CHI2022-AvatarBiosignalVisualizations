@@ -11,7 +11,17 @@ Repository contains:
 Example visualizations:
 ![Example Skeuomorphjic](imgs/chi2022_avatarbiosignals_example_skeuomorphic.gif)
 
-*[Explanation of source code will be finalized soon]*
+![BiosignalVisualizationPackage.unitypackage](source/BiosignalVisualizationPackage.unitypackage) is a unity package file that includes biosignal visualizations with an example simulated biosignal. (This file does not include the jazz bar background.)
+
+Follow the instruction to use the file:
+1) Open Unity3D with the 'Universal Render Pipeline' template.
+2) Import the package to Unity.
+3) Read BiosignalManager.cs script to understand how the sample file works.
+4) Adjust the BiosignalManager.cs and ExampleBiosignal.csv file if you want to make use of the visualizations for other projects.
+
+
+
+
 
 ## Preprint + Video Preview
 
