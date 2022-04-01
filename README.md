@@ -68,6 +68,13 @@ ACM Ref Citation:
 
 *Sueyoon Lee, Abdallah El Ali, Maarten Wijntjes and Pablo Cesar (2022). Understanding and Designing Avatar Biosignal Visualizations for Social Virtual Reality Entertainment. In CHI Conference on Human Factors in Computing Systems (CHI ’22). April 29-May 5, 2022, New Orleans, LA, USA. ACM, New York, NY, USA, 16 pages. https://doi.org/10.1145/3491102.3517451*
 
+## Contact
+
+If you have any questions about the above, you can drop us an email:
+
+* [Sueyoon Lee](mailto:Sueyoon.Lee@cwi.nl)
+* [Abdallah El Ali](mailto:aea@cwi.nl)
+
 
 ## Licenses
 
