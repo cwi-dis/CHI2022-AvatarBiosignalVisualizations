@@ -1,32 +1,37 @@
 ## CHI 2022 paper: Social VR Avatar Biosignal Visualizations
 
 This page contains source code and additional files for our CHI 2022 paper:
->* "Understanding and Designing Avatar Biosignal Visualizations for Social Virtual Reality Entertainment"
+> ["Understanding and Designing Avatar Biosignal Visualizations for Social Virtual Reality Entertainment"](preprint/chi22-347.pdf)
 
-![Example Skeuomorphjic](imgs/chi2022_avatarbiosignals_example_skeuomorphic.gif)
+<p align="center">
+  <img src="imgs/chi2022_avatarbiosignals_example_skeuomorphic.gif" />
+</p>
+
+<!-- ![Example Skeuomorphjic](imgs/chi2022_avatarbiosignals_example_skeuomorphic.gif) -->
 
 ## Source Code
 
 <!-- * [Avatar Biosignal Visualizations (Heart Rate, Breathing Rate)](source) -->
 
-![BiosignalVisualizationPackage.unitypackage](source/BiosignalVisualizationPackage.unitypackage) is a unity package file that includes biosignal visualizations with an example simulated biosignal. (This file does not include the jazz bar background.)
+[BiosignalVisualizationPackage.unitypackage](source/BiosignalVisualizationPackage.unitypackage) is a Unity package file that includes biosignal visualizations with an example simulated biosignal. Note: This file does not include the jazz bar background.
 
-Follow the instruction to use the file:
-1) Open Unity3D with the 'Universal Render Pipeline' template.
-2) Import the package to Unity.
-3) Read BiosignalManager.cs script to understand how the sample file works.
-4) Adjust the BiosignalManager.cs and ExampleBiosignal.csv file if you want to make use of the visualizations for other projects.
+Please follow the below instructions to get started:
+
+1. Open Unity3D with the 'Universal Render Pipeline' template.
+2. Import the package to Unity.
+3. Read BiosignalManager.cs script to understand how the sample file works.
+4. Adjust the BiosignalManager.cs and ExampleBiosignal.csv file if you want to make use of these visualizations in other projects.
 
 
 ## Preprint + Videos
 
-* Preprint (.pdf) here: [SocialVR Avatar Biosignals Preprint](preprint/chi22-347.pdf)
+* Preprint (.pdf) for [CHI '22 SocialVR Avatar Biosignals paper.](preprint/chi22-347.pdf)
 
 * 30s video preview (.mp4):
 
 [![30s video preview](imgs/30s_preview_screenshot.png)](https://abdoelali.com/chi2022-avatarbiosignals_vid_preview.mp4 "CHI 2022 Social VR Avatar Biosignals")
 
-* 8-minute presentation: [SIGCHI YouTube video](https://www.youtube.com/watch?v=yDFNzYbfGew)
+* 8-minute presentation on [SIGCHI's YouTube channel.](https://www.youtube.com/watch?v=yDFNzYbfGew)
 
 ## Supplementary Material
 
