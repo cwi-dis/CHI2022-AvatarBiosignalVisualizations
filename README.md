@@ -1,15 +1,13 @@
 ## CHI 2022 paper: Social VR Avatar Biosignal Visualizations
 
-Source code for our CHI 2022 paper:
+This page contains source code and additional files for our CHI 2022 paper:
 >* "Understanding and Designing Avatar Biosignal Visualizations for Social Virtual Reality Entertainment"
 
-Repository contains:
-
-* [Avatar Biosignal Visualizations (Heart Rate, Breathing Rate)](source)
-
-
-Example visualizations:
 ![Example Skeuomorphjic](imgs/chi2022_avatarbiosignals_example_skeuomorphic.gif)
+
+## Source Code
+
+<!-- * [Avatar Biosignal Visualizations (Heart Rate, Breathing Rate)](source) -->
 
 ![BiosignalVisualizationPackage.unitypackage](source/BiosignalVisualizationPackage.unitypackage) is a unity package file that includes biosignal visualizations with an example simulated biosignal. (This file does not include the jazz bar background.)
 
@@ -20,16 +18,24 @@ Follow the instruction to use the file:
 4) Adjust the BiosignalManager.cs and ExampleBiosignal.csv file if you want to make use of the visualizations for other projects.
 
 
+## Preprint + Videos
 
+* Preprint (.pdf) here: [SocialVR Avatar Biosignals Preprint](preprint/chi22-347.pdf)
 
+* 30s video preview (.mp4):
 
-## Preprint + Video Preview
+[![30s video preview](imgs/30s_preview_screenshot.png)](https://abdoelali.com/chi2022-avatarbiosignals_vid_preview.mp4 "CHI 2022 Social VR Avatar Biosignals")
 
-Preprint (.pdf) here: [chi2022_socialvr-avatarbiosignals_preprint](preprint/chi22-347.pdf)
+* 8-minute presentation: [SIGCHI YouTube video](https://www.youtube.com/watch?v=yDFNzYbfGew)
 
-30s video preview (soon on YouTube!):
+## Supplementary Material
 
-[![30s video preview](imgs/30s_preview_screenshot.png)](https://www.youtube.com "CHI 2022 Social VR Avatar Biosignals")
+* [Supplementary material:](supplementary_material)
+    -  A_vis_overview.mp4: Teaser video showing an overview of each biosignal visualization situated in the virtual jazz bar. Shows a view of the companion avatar as well as of the audience.
+
+    - B_vis_detailed.mp4: Video showing each biosignal visualization (heart rate and breathing rate) across the three different signal rates tested: low, rest, and high.
+
+    - C_post-hoc_interactions.pdf: A document showing the full set of pos-hoc interactions for perceived avatar arousal and for perceived distraction resulting from the contrast tests run with the ART-C tool. Refers to Sec. 4.4.1 and 4.4.2 in the paper.
 
 
 ## Citing this paper or code
