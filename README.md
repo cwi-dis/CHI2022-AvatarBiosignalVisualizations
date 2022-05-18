@@ -59,7 +59,7 @@ address = {New York, NY, USA},
 url = {https://doi.org/10.1145/3491102.3517451},
 booktitle = {Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (submitted)},
 location = {New Orleans, LA, USA},
-series = {CHI '21}
+series = {CHI '22}
 }
 
   ```
